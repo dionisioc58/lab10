@@ -1,0 +1,8 @@
+<map id="include/dionisio.h" name="include/dionisio.h">
+<area shape="rect" id="node2" href="$fila_8h.html" title="Definição da classe Fila. " alt="" coords="5,80,56,107"/>
+<area shape="rect" id="node7" href="$pilha_8h.html" title="Definição da classe Pilha. " alt="" coords="81,80,141,107"/>
+<area shape="rect" id="node8" href="$lista_8h.html" title="Definição da classe Lista. " alt="" coords="165,80,222,107"/>
+<area shape="rect" id="node9" href="$buscas_8h.html" title="Arquivo com definições de funções de busca. " alt="" coords="247,80,321,107"/>
+<area shape="rect" id="node10" href="$ordenacoes_8h.html" title="Arquivo com definições de funções de ordenação. " alt="" coords="345,80,445,107"/>
+<area shape="rect" id="node5" href="$erros_8h.html" title="Arquivo com definições de classes de erro. " alt="" coords="215,155,278,181"/>
+</map>

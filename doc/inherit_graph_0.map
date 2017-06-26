@@ -1,0 +1,9 @@
+<map id="Gráfico de Hierarquia de Classes" name="Gráfico de Hierarquia de Classes">
+<area shape="rect" id="node2" href="$classElementoNaoEncontrado.html" title="Erro de elemento não encontrado. " alt="" coords="140,5,307,32"/>
+<area shape="rect" id="node3" href="$classFilaCheia.html" title="Erro de fila cheia. " alt="" coords="185,56,262,83"/>
+<area shape="rect" id="node4" href="$classFilaVazia.html" title="Erro de fila vazia. " alt="" coords="185,107,261,133"/>
+<area shape="rect" id="node5" href="$classListaVazia.html" title="Erro de lista vazia. " alt="" coords="182,157,265,184"/>
+<area shape="rect" id="node6" href="$classPilhaCheia.html" title="Erro de pilha cheia. " alt="" coords="181,208,266,235"/>
+<area shape="rect" id="node7" href="$classPilhaVazia.html" title="Erro de pilha vazia. " alt="" coords="181,259,265,285"/>
+<area shape="rect" id="node8" href="$classPosicaoInvalida.html" title="Erro de posição solicitada inválida. " alt="" coords="166,309,281,336"/>
+</map>
